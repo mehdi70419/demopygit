@@ -4,4 +4,7 @@ print('hello world')
 print('say hello')
 print('say hello world')
 print('say hello world')
+print('bye')
+print('bye')
+print('bye')
 
